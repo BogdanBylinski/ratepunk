@@ -1,3 +1,4 @@
+/* eslint-disable no-useless-escape */
 import React, { useState } from 'react'
 import saveEmail from './functions/saveEmail'
 import success from '../assets/success.svg'
